@@ -1,0 +1,37 @@
+.detail_container {
+    width: 60%;
+    margin: 0 auto;
+    background-color:#0e0e0e;
+    display: flex;
+}
+
+.detail_moviecontainer {
+  
+    padding: 20px;
+}
+
+.detail_moviecontainer img{
+    width: 100%;
+    object-fit: cover;
+}
+
+.detail_info_container {
+    padding: 20px;
+    width: 50vw;
+
+}
+
+.detail_info_container p {
+    font-size: 20px;
+    padding-bottom: 25px;
+}
+
+.detail_info_container button{
+        margin-top: 35px;
+        padding: 15px 30px;
+        font-size:1.3rem;
+        border-radius:10px;
+        background-color:red;
+        color:#ffffff;
+        border:none;
+}
